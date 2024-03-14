@@ -15,5 +15,6 @@ Utilizarán ShazamKit para reconocimiento de música y enriquecimiento de funcio
 
 ---
 
-> [!TIP]
-> No olviden explorar los recursos adicionales proporcionados en la sección de recursos del curso para ampliar sus conocimientos y mejorar su experiencia de aprendizaje.
+> [!NOTE]
+> Es importante que los lectores realicen consultas y estudios externos al repositorio para enriquecer su comprensión y experiencia de aprendizaje.
+
